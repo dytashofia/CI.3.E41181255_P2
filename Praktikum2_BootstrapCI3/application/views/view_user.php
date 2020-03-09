@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+<!-- View untuk tampilan dari menghubungkan codeigniter dengan database mysql -->
+
 <html>
 <head>
 	<title>Menghubungkan codeigniter dengan database mysql</title>
